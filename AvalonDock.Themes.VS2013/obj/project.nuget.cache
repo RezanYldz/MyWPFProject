@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EvQ2FN/j6AQ5ltHRpgAYFq7YO1ztFi9Y/fuZ9wOtRK+p2YZdpXSS9n0m8Lje0+i7yvR8i4/ak6xqSh7+4LVyHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rezan Yıldız\\source\\repos\\MyWPFProject\\AvalonDock.Themes.VS2013\\AvalonDock.Themes.VS2013.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rezan Yıldız\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Rezan Yıldız\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Rezan Yıldız\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Dirkster.AvalonDock.Themes.VS2013</id>
+    <version>4.60.1</version>
+    <authors>https://github.com/Dirkster99/AvalonDock</authors>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <projectUrl>https://github.com/Dirkster99/AvalonDock</projectUrl>
+    <description>This assembly implements a docking layout system for WPF.</description>
+    <copyright>2017-2021</copyright>
+    <repository url="https://github.com/Dirkster99/AvalonDock" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="Dirkster.AvalonDock" version="4.60.1" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETCoreApp3.0">
+        <dependency id="Dirkster.AvalonDock" version="4.60.1" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="Dirkster.AvalonDock" version="4.60.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+      <group targetFramework=".NETFramework4.0" />
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock.Themes.VS2013\bin\Debug\net40\AvalonDock.Themes.VS2013.dll" target="lib\net40\AvalonDock.Themes.VS2013.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock.Themes.VS2013\bin\Debug\net5.0-windows\AvalonDock.Themes.VS2013.dll" target="lib\net5.0-windows7.0\AvalonDock.Themes.VS2013.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock.Themes.VS2013\bin\Debug\netcoreapp3.0\AvalonDock.Themes.VS2013.dll" target="lib\netcoreapp3.0\AvalonDock.Themes.VS2013.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock.Themes.VS2013\LICENSE" target="LICENSE" />
+  </files>
+</package>

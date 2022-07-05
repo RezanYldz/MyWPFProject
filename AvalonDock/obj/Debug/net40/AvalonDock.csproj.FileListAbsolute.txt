@@ -1,0 +1,134 @@
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net40\AvalonDock.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net40\AvalonDock.pdb
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net40\ca-ES\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net40\cs-CZ\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net40\de\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net40\es\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net40\fr\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net40\hu\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net40\it\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net40\ja\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net40\ko\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net40\nl-BE\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net40\pl\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net40\pt\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net40\ro\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net40\ru\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net40\sv\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net40\zh-Hans\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net40\zh-Hant\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.csproj.AssemblyReference.cache
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\GeneratedInternalTypeHelper.g.cs
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock_MarkupCompile.cache
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock_MarkupCompile.lref
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\Themes\generic.baml
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.g.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.ca-ES.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.cs-CZ.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.de.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.es.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.fr.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.hu.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.it.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.ja.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.ko.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.nl-BE.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.pl.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.pt.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.ro.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.ru.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.sv.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.zh-Hans.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.zh-Hant.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.csproj.GenerateResource.cache
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.AssemblyInfoInputs.cache
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.AssemblyInfo.cs
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.csproj.CoreCompileInputs.cache
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\ca-ES\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\cs-CZ\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\de\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\es\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\fr\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\hu\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\it\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\ja\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\ko\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\nl-BE\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\pl\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\pt\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\ro\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\ru\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\sv\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\zh-Hans\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\zh-Hant\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net40\AvalonDock.pdb
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\AvalonDock.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\AvalonDock.pdb
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\ca-ES\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\cs-CZ\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\de\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\es\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\fr\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\hu\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\it\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\ja\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\ko\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\nl-BE\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\pl\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\pt\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\ro\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\ru\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\sv\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\zh-Hans\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\zh-Hant\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.csproj.AssemblyReference.cache
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\GeneratedInternalTypeHelper.g.cs
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock_MarkupCompile.cache
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock_MarkupCompile.lref
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\Themes\generic.baml
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.g.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.ca-ES.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.cs-CZ.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.de.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.es.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.fr.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.hu.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.it.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.ja.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.ko.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.nl-BE.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.pl.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.pt.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.ro.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.ru.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.sv.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.zh-Hans.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.Properties.Resources.zh-Hant.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.csproj.GenerateResource.cache
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.AssemblyInfoInputs.cache
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.AssemblyInfo.cs
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.csproj.CoreCompileInputs.cache
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\ca-ES\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\cs-CZ\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\de\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\es\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\fr\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\hu\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\it\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\ja\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\ko\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\nl-BE\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\pl\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\pt\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\ro\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\ru\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\sv\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\zh-Hans\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\zh-Hant\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\AvalonDock.pdb

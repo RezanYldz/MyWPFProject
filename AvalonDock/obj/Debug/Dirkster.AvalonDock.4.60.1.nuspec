@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Dirkster.AvalonDock</id>
+    <version>4.60.1</version>
+    <authors>https://github.com/Dirkster99/AvalonDock</authors>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <projectUrl>https://github.com/Dirkster99/AvalonDock</projectUrl>
+    <description>This assembly implements a docking layout system for WPF.</description>
+    <copyright>2017-2021</copyright>
+    <repository url="https://github.com/Dirkster99/AvalonDock" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.0" />
+      <group targetFramework=".NETCoreApp3.0" />
+      <group targetFramework="net5.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+      <group targetFramework=".NETFramework4.0" />
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\ca-ES\AvalonDock.resources.dll" target="lib\net40\ca-ES\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\cs-CZ\AvalonDock.resources.dll" target="lib\net40\cs-CZ\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\de\AvalonDock.resources.dll" target="lib\net40\de\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\es\AvalonDock.resources.dll" target="lib\net40\es\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\fr\AvalonDock.resources.dll" target="lib\net40\fr\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\hu\AvalonDock.resources.dll" target="lib\net40\hu\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\it\AvalonDock.resources.dll" target="lib\net40\it\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\ja\AvalonDock.resources.dll" target="lib\net40\ja\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\ko\AvalonDock.resources.dll" target="lib\net40\ko\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\nl-BE\AvalonDock.resources.dll" target="lib\net40\nl-BE\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\pl\AvalonDock.resources.dll" target="lib\net40\pl\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\pt\AvalonDock.resources.dll" target="lib\net40\pt\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\ro\AvalonDock.resources.dll" target="lib\net40\ro\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\ru\AvalonDock.resources.dll" target="lib\net40\ru\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\sv\AvalonDock.resources.dll" target="lib\net40\sv\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\zh-Hans\AvalonDock.resources.dll" target="lib\net40\zh-Hans\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net40\zh-Hant\AvalonDock.resources.dll" target="lib\net40\zh-Hant\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net40\AvalonDock.dll" target="lib\net40\AvalonDock.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\ca-ES\AvalonDock.resources.dll" target="lib\net5.0-windows7.0\ca-ES\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\cs-CZ\AvalonDock.resources.dll" target="lib\net5.0-windows7.0\cs-CZ\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\de\AvalonDock.resources.dll" target="lib\net5.0-windows7.0\de\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\es\AvalonDock.resources.dll" target="lib\net5.0-windows7.0\es\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\fr\AvalonDock.resources.dll" target="lib\net5.0-windows7.0\fr\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\hu\AvalonDock.resources.dll" target="lib\net5.0-windows7.0\hu\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\it\AvalonDock.resources.dll" target="lib\net5.0-windows7.0\it\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\ja\AvalonDock.resources.dll" target="lib\net5.0-windows7.0\ja\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\ko\AvalonDock.resources.dll" target="lib\net5.0-windows7.0\ko\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\nl-BE\AvalonDock.resources.dll" target="lib\net5.0-windows7.0\nl-BE\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\pl\AvalonDock.resources.dll" target="lib\net5.0-windows7.0\pl\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\pt\AvalonDock.resources.dll" target="lib\net5.0-windows7.0\pt\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\ro\AvalonDock.resources.dll" target="lib\net5.0-windows7.0\ro\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\ru\AvalonDock.resources.dll" target="lib\net5.0-windows7.0\ru\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\sv\AvalonDock.resources.dll" target="lib\net5.0-windows7.0\sv\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\zh-Hans\AvalonDock.resources.dll" target="lib\net5.0-windows7.0\zh-Hans\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\zh-Hant\AvalonDock.resources.dll" target="lib\net5.0-windows7.0\zh-Hant\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\AvalonDock.dll" target="lib\net5.0-windows7.0\AvalonDock.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\netcoreapp3.0\ca-ES\AvalonDock.resources.dll" target="lib\netcoreapp3.0\ca-ES\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\netcoreapp3.0\cs-CZ\AvalonDock.resources.dll" target="lib\netcoreapp3.0\cs-CZ\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\netcoreapp3.0\de\AvalonDock.resources.dll" target="lib\netcoreapp3.0\de\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\netcoreapp3.0\es\AvalonDock.resources.dll" target="lib\netcoreapp3.0\es\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\netcoreapp3.0\fr\AvalonDock.resources.dll" target="lib\netcoreapp3.0\fr\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\netcoreapp3.0\hu\AvalonDock.resources.dll" target="lib\netcoreapp3.0\hu\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\netcoreapp3.0\it\AvalonDock.resources.dll" target="lib\netcoreapp3.0\it\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\netcoreapp3.0\ja\AvalonDock.resources.dll" target="lib\netcoreapp3.0\ja\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\netcoreapp3.0\ko\AvalonDock.resources.dll" target="lib\netcoreapp3.0\ko\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\netcoreapp3.0\nl-BE\AvalonDock.resources.dll" target="lib\netcoreapp3.0\nl-BE\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\netcoreapp3.0\pl\AvalonDock.resources.dll" target="lib\netcoreapp3.0\pl\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\netcoreapp3.0\pt\AvalonDock.resources.dll" target="lib\netcoreapp3.0\pt\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\netcoreapp3.0\ro\AvalonDock.resources.dll" target="lib\netcoreapp3.0\ro\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\netcoreapp3.0\ru\AvalonDock.resources.dll" target="lib\netcoreapp3.0\ru\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\netcoreapp3.0\sv\AvalonDock.resources.dll" target="lib\netcoreapp3.0\sv\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\netcoreapp3.0\zh-Hans\AvalonDock.resources.dll" target="lib\netcoreapp3.0\zh-Hans\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\netcoreapp3.0\zh-Hant\AvalonDock.resources.dll" target="lib\netcoreapp3.0\zh-Hant\AvalonDock.resources.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\netcoreapp3.0\AvalonDock.dll" target="lib\netcoreapp3.0\AvalonDock.dll" />
+    <file src="C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\LICENSE" target="LICENSE" />
+  </files>
+</package>

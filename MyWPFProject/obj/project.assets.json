@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Dirkster.AvalonDock/4.60.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Dirkster.AvalonDock.Themes.VS2013/4.60.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "4.60.1"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.VS2013.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.VS2013.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Dirkster.AvalonDock/4.60.1": {
+      "type": "project",
+      "path": "../AvalonDock/AvalonDock.csproj",
+      "msbuildProject": "../AvalonDock/AvalonDock.csproj"
+    },
+    "Dirkster.AvalonDock.Themes.VS2013/4.60.1": {
+      "type": "project",
+      "path": "../AvalonDock.Themes.VS2013/AvalonDock.Themes.VS2013.csproj",
+      "msbuildProject": "../AvalonDock.Themes.VS2013/AvalonDock.Themes.VS2013.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Dirkster.AvalonDock >= 4.60.1",
+      "Dirkster.AvalonDock.Themes.VS2013 >= 4.60.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Rezan Yıldız\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Rezan Yıldız\\source\\repos\\MyWPFProject\\MyWPFProject\\MyWPFProject.csproj",
+      "projectName": "MyWPFProject",
+      "projectPath": "C:\\Users\\Rezan Yıldız\\source\\repos\\MyWPFProject\\MyWPFProject\\MyWPFProject.csproj",
+      "packagesPath": "C:\\Users\\Rezan Yıldız\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rezan Yıldız\\source\\repos\\MyWPFProject\\MyWPFProject\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Rezan Yıldız\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Rezan Yıldız\\source\\repos\\MyWPFProject\\AvalonDock.Themes.VS2013\\AvalonDock.Themes.VS2013.csproj": {
+              "projectPath": "C:\\Users\\Rezan Yıldız\\source\\repos\\MyWPFProject\\AvalonDock.Themes.VS2013\\AvalonDock.Themes.VS2013.csproj"
+            },
+            "C:\\Users\\Rezan Yıldız\\source\\repos\\MyWPFProject\\AvalonDock\\AvalonDock.csproj": {
+              "projectPath": "C:\\Users\\Rezan Yıldız\\source\\repos\\MyWPFProject\\AvalonDock\\AvalonDock.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

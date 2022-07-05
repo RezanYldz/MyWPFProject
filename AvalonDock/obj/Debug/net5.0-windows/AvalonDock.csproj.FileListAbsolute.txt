@@ -1,0 +1,140 @@
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\AvalonDock.deps.json
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\AvalonDock.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\AvalonDock.pdb
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\ca-ES\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\cs-CZ\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\de\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\es\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\fr\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\hu\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\it\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\ja\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\ko\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\nl-BE\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\pl\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\pt\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\ro\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\ru\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\sv\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\zh-Hans\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\bin\Debug\net5.0-windows\zh-Hant\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.csproj.AssemblyReference.cache
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock_MarkupCompile.cache
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock_MarkupCompile.lref
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\Themes\generic.baml
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.g.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.ca-ES.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.cs-CZ.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.de.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.es.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.fr.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.hu.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.it.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.ja.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.ko.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.nl-BE.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.pl.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.pt.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.ro.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.ru.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.sv.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.zh-Hans.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.zh-Hant.resources
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.csproj.GenerateResource.cache
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.AssemblyInfoInputs.cache
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.AssemblyInfo.cs
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.csproj.CoreCompileInputs.cache
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\ca-ES\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\cs-CZ\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\de\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\es\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\fr\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\hu\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\it\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\ja\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\ko\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\nl-BE\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\pl\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\pt\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\ro\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\ru\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\sv\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\zh-Hans\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\zh-Hant\AvalonDock.resources.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\refint\AvalonDock.dll
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.pdb
+C:\Repos\quickapp-development-studio\AvalonDock\obj\Debug\net5.0-windows\ref\AvalonDock.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\AvalonDock.deps.json
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\AvalonDock.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\AvalonDock.pdb
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\ca-ES\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\cs-CZ\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\de\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\es\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\fr\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\hu\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\it\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\ja\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\ko\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\nl-BE\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\pl\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\pt\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\ro\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\ru\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\sv\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\zh-Hans\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\bin\Debug\net5.0-windows\zh-Hant\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.csproj.AssemblyReference.cache
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock_MarkupCompile.cache
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock_MarkupCompile.lref
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\Themes\generic.baml
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.g.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.ca-ES.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.cs-CZ.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.de.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.es.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.fr.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.hu.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.it.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.ja.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.ko.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.nl-BE.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.pl.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.pt.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.ro.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.ru.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.sv.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.zh-Hans.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.Properties.Resources.zh-Hant.resources
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.csproj.GenerateResource.cache
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.AssemblyInfoInputs.cache
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.AssemblyInfo.cs
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.csproj.CoreCompileInputs.cache
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\ca-ES\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\cs-CZ\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\de\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\es\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\fr\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\hu\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\it\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\ja\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\ko\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\nl-BE\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\pl\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\pt\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\ro\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\ru\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\sv\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\zh-Hans\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\zh-Hant\AvalonDock.resources.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\refint\AvalonDock.dll
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\AvalonDock.pdb
+C:\Users\Rezan Yıldız\source\repos\MyWPFProject\AvalonDock\obj\Debug\net5.0-windows\ref\AvalonDock.dll
